@@ -1,4 +1,22 @@
 # DCGAN_Tensorflow
+
+## Usage
+`$ python3 main.py`
+
+##### *NOTE* : 
+>On colab notebook use the following commmand:
+`!git clone link-to-repo
+ %run main.py `
+ 
+_Contributed by_: ____[Shivamshree Gupta](https://github.com/shvmshri)____
+
+## References:
+___Title___ : Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks
+
+___Author___ : Alec Radford, Luke Metz, Soumith Chintala
+
+___Link___ : [https://arxiv.org/pdf/1511.06434.pdf](https://arxiv.org/pdf/1511.06434.pdf)
+
 ## SUMMARY
  •	DCGAN
 ### *Deep Convolutional Generative Adversarial Networks*
@@ -42,6 +60,11 @@ This becomes a __minimax__ type loss function as above illustrated.
 #### Plot of generator loss vs. discriminator loss
 
 ![alt text](https://github.com/shvmshri/DCGAN_Tensorflow/blob/master/images/loss_plot.png) 
+
+## Sources
+1. [Deep Learning Part -II(CS7015),Lec-1](https://www.youtube.com/watch?v=1ju4qmdtRdY&t=142s)
+2. [Deep Learning Part -II(CS7015),Lec-2](https://www.youtube.com/watch?v=uyuYfTMHZM0)
+
 
 
   
